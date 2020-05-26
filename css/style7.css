@@ -1,0 +1,7 @@
+.box{
+    width: 1060px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    height: 1700px;
+}

@@ -1,0 +1,354 @@
+body{
+    background: green;
+}
+.box{
+    width: 1060px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    height: 1700px;
+}
+.header{
+    width: 100%;
+    display: flex;
+    height: 100px;
+    justify-content: space-around;
+    background: grey;
+    text-align: center;
+    padding: 20px;
+    align-items: center;
+}
+.logo{
+    width: 130px;
+}
+li{
+    margin-left: 20px;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    
+}
+.banner3{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    background: #bdbdbd;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.banner4{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.banner5{
+    width: 100%;
+    height: 220px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.banner6{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.block1{
+    width: 420px;
+    height: 300px;
+}
+.block2{
+    width: 540px;
+    height: 300px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+ul{
+    color: darkgreen;
+    font-size: 20pt;
+}
+a{
+    text-decoration: none;
+}
+.city{
+    width: 540px;
+    height: 300px;
+}
+
+.content{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+
+}
+.block3{
+    width: 220px;
+    height: 200px;
+    background:#d4dec8;
+    margin-left: 20px;
+    text-align: center;
+}
+
+footer{
+  width: 100%;
+  height: 100px;
+  background: grey;
+  display: flex;
+  text-align: center;   
+  margin-top: -20px;
+  padding: 20px;   
+}
+.io{
+    width: 70px;
+    height: 60px;
+}
+h2{
+    background: green;
+    color: white ; 
+}
+.informatiom{
+    width: 100%;
+    height: 220px;
+    background: #bdbdbd;
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+    
+
+    
+}
+.ll{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%; 
+}
+.lop{
+     width: 150px;
+    height: 170px;
+    font-family: SEGOE SCRIPT;
+    font-size: 20px;
+    text-align: center;
+}
+.top{
+     width: 150px;
+    height: 150px;
+    font-family: SEGOE SCRIPT;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+
+li{
+    margin-left: 20px;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.banner{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 30px;
+}
+.banner2{
+    width: 104%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 30px;
+}
+
+h1{
+    color: #ffffff;
+}
+ul{
+    color: darkgreen;
+    font-size: 20pt;
+}
+a{
+    text-decoration: none;
+}
+.city{
+    width: 540px;
+    height: 300px;
+}
+
+.content{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    background: #bdbdbd;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.block3{
+    width: 220px;
+    height: 200px;
+    background:#d4dec8;
+    margin-left: 20px;
+}
+.nature{
+    width: 200px;
+}
+.factory{
+    width: 200px;
+}
+.global{
+    width: 200px;
+}
+
+footer{
+  width: 100%;
+  height: 50px;
+  background: grey;
+  display: flex;
+  text-align: center;
+  margin-top: 20px;
+  font-family:
+
+
+ 
+}
+.io{
+    width: 70px;
+    height: 70px;
+}
+
+.informatiom{
+    width: 100%;
+    height: 220px;
+    background: #bdbdbd;
+
+    display: flex;
+    justify-content: space-around;
+
+
+
+}
+.ll{
+    width: 150px;
+    height: 150px;
+ 
+}
+.lop{
+     width: 150px;
+    height: 170px;
+    font-size: 20px;
+    text-align: center;
+}
+.top{
+     width: 150px;
+    height: 150px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.panet{
+    width: 200px;
+    height: 200px;
+}
+
+.banner7{
+    width: 100%;
+    height: 200px;
+    flex-direction: row;
+}
+.ecology2{
+    width: 60px;
+    height: 60px;
+    margin-left: 500px;
+}
+.ban9{
+    width: 104%;
+    height: 200px;
+    background: grey;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.ban6{
+    display: flex;
+    flex-direction: row;
+    width: 104%;
+    height: 207px;
+    background: grey;
+}
+.About{
+    width: 104%;
+    height: 300px;
+}
+.yuy{
+    font-size: 60px;
+    text-align: center;
+    color: black;
+   
+}
+.fdg{
+    width: 520px;
+    height: 100px;
+    background: gray;
+   
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+.pppp{
+    width: 500px;
+    height: 500px;
+    margin-left: 10px;
+}
+.fdgk{
+    width: 520px;
+    height: 100px;
+    background: gray;
+    font-size: 50px;
+    color: red;
+    margin-top:  -632px; 
+    margin-left:   550px; 
+}
+
+
+
+
+.ppppp{
+    width: 500px;
+    height: 500px;
+    margin-left: 560px;
+}
+.ui{
+    font-size: 50px;
+    text-align: center;
+}
+.iuhj{
+    color:  white;
+    text-align: justify;
+}

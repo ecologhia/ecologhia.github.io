@@ -1,0 +1,504 @@
+.box{
+    width: 1060px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    height: 1700px;
+}
+header{
+    width: 99%;
+    display: flex;
+    height: 120px;
+    justify-content: space-around;
+    background: grey;
+
+    padding: 10px;
+   
+    align-items: center;
+}
+.logo{
+    width: 130px;
+}
+li{
+    margin-left: 20px;
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+    
+    
+}
+
+.house1{
+	background: green;
+	width: 1000px;
+	height: 15px;
+	position: absolute;
+	top: 500px;
+	left: 0px;
+}
+.house2{
+	background: green;
+	width: 60px;
+	height: 170px;
+	position: absolute;
+	top: 350px;
+	left: 400px;
+}
+.house3{
+	background: green;
+	width: 45px;
+	height: 160px;
+	position: absolute;
+	top: 350px;
+	left: 400px;
+}
+.house4{
+	background: green;
+	width: 60px;
+	height: 20px;
+	position: absolute;
+	top: 325px;
+	left: 400px;
+}
+.house5{
+	background: green;
+	width: 40px;
+	height: 20px;
+	position: absolute;
+	top: 300px;
+	left: 410px;
+}
+.house6{
+	background: green;
+	width: 25px;
+	height: 20px;
+	position: absolute;
+	top: 275px;
+	left: 417px;
+}
+.wind1{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 360px;
+	left: 405px;
+}
+.wind2{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 380px;
+	left: 405px;
+}
+.wind3{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 400px;
+	left: 405px;
+}
+.wind4{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 420px;
+	left: 405px;
+}
+.wind5{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 360px;
+	left: 440px;
+}
+.wind6{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 380px;
+	left: 440px;
+}
+.wind7{
+	width: 15px;
+	height: 15px;
+	background: white;
+	position: absolute;
+	top: 400px;
+	left: 440px;
+}
+.home1{
+	width: 100px;
+	height: 150px;
+	background: green;
+	position: absolute;
+	top: 370px;
+	left: 470px;
+}
+.home2{
+	width: 100px;
+	height: 25px;
+	background: green;
+	position: absolute;
+	top: 340px;
+	left: 470px;
+}
+.home3{
+	width: 20px;
+	height: 120px;
+	background: white;
+	position: absolute;
+	top: 380px;
+	left: 525px;
+}
+.home4{
+	width: 20px;
+	height: 20px;
+	background: white;
+	position: absolute;
+	top: 390px;
+	left: 490px;
+}
+.home5{
+	width: 20px;
+	height: 20px;
+	background: white;
+	position: absolute;
+	top: 420px;
+	left: 490px;
+}
+.home6{
+	width: 20px;
+	height: 20px;
+	background: white;
+	position: absolute;
+	top: 450px;
+	left: 490px;
+}
+.home7{
+	border-bottom: 25px solid turquoise;
+	border-left: 12px solid transparent;
+	border-right: 12px solid transparent;
+	height: 0;
+	width:25px; 
+	transform: rotate(180deg);
+	position: absolute;
+	top: 475px;
+	left: 580px;
+}
+.home8{
+	width: 100px;
+	height: 150px;
+	background: green;
+	position: absolute;
+	top: 370px;
+	left: 630px;
+}
+.home9{
+	width: 20px;
+	height: 70px;
+	background: white;
+	position: absolute;
+	top: 390px;
+	left: 640px;
+}
+.home10{
+	width: 20px;
+	height: 70px;
+	background: white;
+	position: absolute;
+	top: 390px;
+	left: 670px;
+}
+.home11{
+	width: 10px;
+	height: 80px;
+	background: green;
+	position: absolute;
+	top: 300px;
+	left: 670px;
+}
+
+
+.browntree1{	
+	width: 0;
+	height: 0;
+	border:10px solid transparent;
+	border-bottom: 80px solid brown;
+	position: absolute;
+	top: 410px;
+	left: 340px;
+   }
+.grentree1{
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+	background: green;
+	position: absolute;
+	top: 390px;
+	left: 320px;
+}
+.browntree2{	
+	width: 0;
+	height: 0;
+	border:10px solid transparent;
+	border-bottom: 80px solid brown;
+	position: absolute;
+	top: 410px;
+	left: 750px;
+   }
+.grentree2{
+	width: 60px;
+	height: 60px;
+	border-radius: 100%;
+	background: green;
+	position: absolute;
+	top: 390px;
+	left: 740px;
+}
+.hata1{
+	width:90px;
+	height: 90px;
+	background: green;
+	position: absolute;
+	top: 410px;
+	left: 220px;
+}
+.hata2{
+	width:20px;
+	height: 60px;
+	background: white;
+	position: absolute;
+	top: 430px;
+	left: 230px;
+}
+.hata3{
+	width:20px;
+	height: 60px;
+	background: white;
+	position: absolute;
+	top: 430px;
+	left: 260px;
+}
+.hata4{
+	width: 150px;
+	height: 150px;
+	background: green;
+	position: absolute;
+	top:375px;
+	left:820px;
+
+}
+.hata5{
+	width: 120px;
+	height: 30px;
+	background: green;
+	position: absolute;
+	top:340px;
+	left:833px;
+
+}
+.hata6{
+	width: 80px;
+	height: 30px;
+	background: green;
+	position: absolute;
+	top:305px;
+	left:850px;
+
+}
+.hata7{
+	width: 10px;
+	height: 40px;
+	background: green;
+	position: absolute;
+	top:260px;
+	left:885px;
+}
+.lamp{
+	width: 30px;
+	height: 30px;
+	background: yellow;
+	border-radius: 100%;
+	position: absolute;
+	top: 247px;
+	left: 877px;
+	animation-name: lamp; 
+	animation-duration: 15s;
+	animation-timing-function: linear;
+	animation-iteration-count: 300;
+} 
+@keyframes lamp{
+   0%{opacity: 1;}
+   12%{opacity: 0.7;}
+   24%{opacity: 0.5;}
+   36%{opacity: 0.2;}
+   48%{opacity: 0;}
+   60%{opacity: 0.2;}
+   72%{opacity: 0.5;}
+   84%{opacity: 0.7;}
+   100%{opacity: 1;}
+
+} 
+
+}
+.hata9{
+	width: 100px;
+	height: 10px;
+	background: white;
+	position: absolute;
+	top:350px;
+	left:840px;
+
+}
+.hata10{
+	width: 50px;
+	height: 50px;
+	background: white;
+	position: absolute;
+	top:390px;
+	left:830px;
+
+}
+.hata11{
+	width: 50px;
+	height: 50px;
+	background: white;
+	position: absolute;
+	top:390px;
+	left:905px;
+
+}
+
+.hata12{
+	width: 60px;
+	height: 20px;
+	background: white;
+	position: absolute;
+	top:310px;
+	left:861px;
+}
+
+.box{
+    position: relative;
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+    border:1px solid grey;
+}
+body{
+    background: lightgrey;
+}
+
+.car1{
+    position: absolute;
+    top:435px;
+    left:1500px;
+    width: 64px;
+    height: 64px;
+  
+    background: url(https://iconsplace.com/wp-content/uploads/_icons/000000/256/png/car-icon-256.png);
+  background-size:cover;
+    animation-name: car1;
+    animation-duration: 5s;
+    animation-timing-function:  linear;
+    animation-iteration-count:100;
+}
+@keyframes car1{
+    0%{
+    position: absolute;
+    top:435px;
+    left:0; 
+    }
+    50%{
+    position: absolute;
+    top:435px;
+    left:500px;    
+    }
+    100%{
+    position: absolute;
+    top:435px;
+    left:1500px; 
+    }
+}
+.car2{
+    position: absolute;
+    top:455px;
+    right:1500px;
+    width: 64px;
+    height: 64px;
+    background: url(https://image.flaticon.com/icons/svg/744/744465.svg);
+    animation-name: car2;
+    animation-duration: 5s;
+    animation-timing-function:  linear;
+    animation-iteration-count:100;
+    animation-delay: 4s;
+}
+
+@keyframes car2{
+    0%{
+    position: absolute;
+    top:455px;
+    right:0; 
+    }
+    50%{
+    position: absolute;
+    top:455px;
+    right:500px;    
+    }
+    100%{
+    position: absolute;
+    top:455px;
+    right:1500px;
+    @import url(https://fonts.googleapis.com/css?family=Ranga:400,700);
+ {
+ 	} 
+
+} 
+
+.sunflover{
+	width: 100px;
+	position: relative;
+	top: -400px;
+}
+
+.d39 {
+position: relative;
+width: 3em; 
+height: 3em; 
+margin: 2em;
+background: #D5DEE9;
+border-width: 0.25em;
+border-style: solid;
+border-color: #6E839E;
+border-radius: 50% 50% 0 0;
+}
+.d39:before, 
+.d39:after {
+content: "";
+position: absolute; 
+bottom: -0.25em;
+background: inherit;
+border-width: 0.25em;
+border-style: solid;
+border-color: #6E839E;
+}
+.d39:before {
+left: 80%; 
+width: 60%; 
+height: 60%;
+border-left: none;
+border-radius: 50% 50% 50% 0;
+}
+.d39:after {
+right: 80%;
+width: 80%; 
+height: 80%;
+border-right: none;
+border-radius: 50% 50% 0;
+}
